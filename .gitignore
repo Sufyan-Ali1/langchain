@@ -1,0 +1,5 @@
+3. Models/models/
+.env
+__pycache__/
+*.pyc
+.DS_Store
