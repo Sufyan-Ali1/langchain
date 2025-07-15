@@ -1,4 +1,5 @@
 3. Models/models/
+langchain
 .env
 __pycache__/
 *.pyc

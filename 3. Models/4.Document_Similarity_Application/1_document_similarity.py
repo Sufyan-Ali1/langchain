@@ -46,8 +46,7 @@ embedding_vectors=load_embeddings()
 similarities = cosine_similarity([query_embedding],embedding_vectors)
 
 most_similar_index = np.argmax(similarities)
-
 # load Documents
 documents = load_documents()
 
-print("Your Answer is in this Document:\n",documents[most_similar_index]['text'])
+print(f"Your Answer is in this Document:\nSimilarity : {int((similarities[0][most_similar_index])*100)}\n",documents[most_similar_index]['text'])
