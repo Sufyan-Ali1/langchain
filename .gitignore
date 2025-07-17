@@ -1,6 +1,5 @@
 3. Models/models/
 langchain
-Labs
 .env
 __pycache__/
 *.pyc
