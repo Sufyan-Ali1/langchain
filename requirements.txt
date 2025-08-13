@@ -29,3 +29,24 @@ numpy
 scikit-learn
 torch
 streamlit
+langchain_community
+pypdf
+bs4
+
+# Vector Store Chroma
+chromadb
+tiktoken
+
+# Retrievers
+wikipedia
+faiss-
+
+# Project
+youtube-transcript-api
+
+# Tools
+duckduckgo-search
+langchain_experimental
+
+# Tool Calling
+requests
