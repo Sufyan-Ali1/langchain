@@ -50,3 +50,6 @@ langchain_experimental
 
 # Tool Calling
 requests
+
+# Lab 1 Q:6
+langchain-ollama
